@@ -1,2 +1,2 @@
 # delta-demo
-Practice Purpose
+Practice Purpose (This is a demo for Git and Github class.)
